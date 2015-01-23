@@ -3,6 +3,15 @@ melon_info.py - Prints out all the melons in our inventory
 
 """
 
+"""
+-> add ability to keep track of the flesh
+color, rind color and average weight.
+-> make script easier to manage, for flexibilty
+to change what is being tracked
+-> Hint 1: You can change the format of the melons.py file
+-> Hint 2: Dictionaries
+"""
+
 from melons import melon_name, melon_seedless, melon_price
 
 
